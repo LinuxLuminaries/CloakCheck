@@ -7,7 +7,7 @@ A Great Tool to Scan for missing or misconfigured Headers in Websites.
 Clone the repository, install the requierements.
 
 ```bash
-git clone https://github.com/LinuxLuminaries/CloakCheck.git && cd Ender
+git clone https://github.com/LinuxLuminaries/CloakCheck.git && cd CloakCheck
 ```
 
 ```bash
@@ -51,3 +51,4 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+

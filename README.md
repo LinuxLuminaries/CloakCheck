@@ -32,7 +32,7 @@ Options:
 ```bash
 [*] Checking security headers for the provided URL: https://www.example.com/
 
-[!] Missing Security Headers for URL: https://www.cflowapps.com/
+[!] Missing Security Headers for URL: https://www.example.com/
 Missing Headers: ['Content-Security-Policy', 'Strict-Transport-Security', 'X-XSS-Protection', 'Pragma', 'Feature-Policy', 'Access-Control-Allow-Origin']
 
   - Issue: Missing Content-Security-Policy - Recommendation: No specific recommendation available.
